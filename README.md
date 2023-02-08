@@ -1,7 +1,7 @@
 # Bose landing page
 Landing page for Bose shop-salon with categories, products and contact form.
 
-[DEMO LINK](https://olena-yanovska.github.io/bose-landing/)
+[DEMO LINK](https://olena-yanovska.github.io/bose-landing_page/)
 
 ## Technologies
 
